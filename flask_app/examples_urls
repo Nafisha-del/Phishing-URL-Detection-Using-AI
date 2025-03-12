@@ -1,0 +1,5 @@
+Test URLs:
+1. https://www.github.com (safe)
+2. https://www.google.com (safe)
+3. http://bank-secure-login.ru (phishing)
+4. http://amzon-shop-authenticate.com (phishing)
