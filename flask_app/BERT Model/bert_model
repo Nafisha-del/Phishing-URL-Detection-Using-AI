@@ -1,0 +1,11 @@
+This directory contains all the files created after saving the BERT model:
+1. config file json source file
+2. optimizer.pt - PT (Place-Text) file
+3. pytorch model bin file
+4. rng_state file - used to save model state dictionaries, which include model parameters and optimizer states\
+5. scheduler.pt
+6. special tokens map
+7. tokenizer config
+8. trainer state
+9. trainer_args bin file
+10. vocab text file
